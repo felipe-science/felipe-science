@@ -1,38 +1,57 @@
-### Hi there 👋
+# 👋 Hi, I’m Felipe Moreira
 
-### Hi there, My name is Felipe 👋
+I’m a **PhD Candidate in Physics** at the Federal University of Paraíba (UFPB), specializing in **Condensed Matter Physics** and exploring applications in **Biological Physics**.  
+I develop **computational models**, analyze **complex datasets**, and apply **Machine Learning** techniques to solve scientific problems.
 
-- 🔭 I’m currently working on Condensed Matter physics theory
-- 🌱 I'm currently working on Biological Physics
-- 📫 How to reach me: felipemoreira.physics@gmail.com
+---
 
+## 🔭 Currently Working On
+- Theoretical research in **Condensed Matter Physics** and **Statistical Physics**  
+- Computational projects addressing real-world aviation industry challenges  
+- **Machine Learning** models for scientific research
 
-Bachelor in physics at Federal University of Rio Grande do Norte (UFRN)
+---
 
-Master degree in physics at Federal University of Paraíba (UFPB)
-
-I am currently a doctoral student in physics at UFPB
-
-<div style="inline-block" id="status">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=felipe-science&show_icons=true&theme=tokyonight">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-science&layout=compact&theme=tokyonight">
+## 🛠 Skills & Tools
+<div>
+  <img align="left" alt="C" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="left" alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="Pandas" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="left" alt="NumPy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+  <img align="left" alt="Matplotlib" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+  <img align="left" alt="TensorFlow" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img align="left" alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+<div style="clear: both;"></div>
 
-  ##
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
-  <img align="center" alt="Felipe-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Felipe-numpy" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-  <img align="center" alt="Felipe-sql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Felipe-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Felipe-linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"">
-  
-          
-  
-</div>
-  
-  
-            
-          
+---
+
+## 🎓 Education
+- **PhD Candidate in Physics** – Federal University of Paraíba (UFPB)  
+- **M.Sc. Physics** – Federal University of Paraíba (UFPB)  
+- **B.Sc. Physics** – Federal University of Rio Grande do Norte (UFRN)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=felipe-science&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-science&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔬 Research & Interests
+- **Condensed Matter Physics**  
+- **Biological Physics**  
+- **Machine Learning for Scientific Research**  
+- **Computational Physics & Data Analysis**
+
+---
+
+## 🌐 Connect with Me
+- 📧 [felipemoreira.physics@gmail.com](mailto:felipemoreira.physics@gmail.com)  
+- [LinkedIn](#)  
+- [ResearchGate](#)  
+- [Google Scholar](#)
