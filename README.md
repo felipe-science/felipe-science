@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Felipe Moreira
 
-I’m a **PhD Candidate in Physics** at the Federal University of Paraíba (UFPB), specializing in **Condensed Matter Physics** and exploring applications in **Biological Physics**.  
+I’m a **PhD Candidate in Physics** at the Federal University of Paraíba (UFPB), specializing in **Statistical Physics**.  
 I develop **computational models**, analyze **complex datasets**, and apply **Machine Learning** techniques to solve scientific problems.
 
 ---
 
 ## 🔭 Currently Working On
-- Theoretical research in **Condensed Matter Physics** and **Statistical Physics**  
-- Computational projects addressing real-world aviation industry challenges  
+- Theoretical research in **Statistical Physics** and **Condensed Matter Physics**  
+- Computational projects addressing **real-world aviation industry challenges**  
 - **Machine Learning** models for scientific research
 
 ---
@@ -27,10 +27,10 @@ I develop **computational models**, analyze **complex datasets**, and apply **Ma
 
 ---
 
-## 🎓 Education
+## Education
 - **PhD Candidate in Physics** – Federal University of Paraíba (UFPB)  
-- **M.Sc. Physics** – Federal University of Paraíba (UFPB)  
-- **B.Sc. Physics** – Federal University of Rio Grande do Norte (UFRN)
+- **M.Sc. in Physics** – Federal University of Paraíba (UFPB)  
+- **B.Sc. in Physics** – Federal University of Rio Grande do Norte (UFRN)
 
 ---
 
@@ -44,7 +44,6 @@ I develop **computational models**, analyze **complex datasets**, and apply **Ma
 
 ## 🔬 Research & Interests
 - **Condensed Matter Physics**  
-- **Biological Physics**  
 - **Machine Learning for Scientific Research**  
 - **Computational Physics & Data Analysis**
 
