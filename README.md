@@ -1,56 +1,104 @@
-# 👋 Hi, I’m Felipe Moreira
+# Hi, I'm Felipe Moreira 👋
 
-I’m a **PhD Candidate in Physics** at the Federal University of Paraíba (UFPB), specializing in **Statistical Physics**.  
-I develop **computational models**, analyze **complex datasets**, and apply **Machine Learning** techniques to solve scientific problems.
+### Physicist | Machine Learning & AI | Data Science | Scientific Computing
+
+I am a physicist and PhD candidate at the Federal University of
+Paraíba (UFPB), with international research experience at
+TU Dresden, Germany.
+
+My work focuses on developing computational and data-driven
+solutions to complex real-world problems, combining machine
+learning, mathematical modeling, signal processing, and
+high-performance computing.
 
 ---
 
-## 🔭 Currently Working On
-- Theoretical research in **Statistical Physics** and **Condensed Matter Physics**  
-- Computational projects addressing **real-world aviation industry challenges**  
-- **Machine Learning** models for scientific research
+## Areas of Expertise
+
+- Machine Learning & Artificial Intelligence
+- Data Science & Statistical Analysis
+- Digital Signal Processing & Time Series Analysis
+- Computer Vision & Audio Processing
+- Federated Learning & Predictive Maintenance
+- Scientific Computing & Numerical Modeling
+- High-Performance & Parallel Computing
 
 ---
 
-## 🛠 Skills & Tools
+## Technical Skills
+
+### Programming Languages
+
 <div>
-  <img align="left" alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="left" alt="C" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="left" alt="NumPy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-  <img align="left" alt="Pandas" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="left" alt="Matplotlib" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
-  <img align="left" alt="TensorFlow" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img align="left" alt="PyTorch" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img align="left" alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="left" alt="SQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Julia" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
+  <img alt="R" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img alt="MATLAB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+</div>
+
+### Machine Learning & Data Science
+
+<div>
+  <img alt="NumPy" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img alt="Pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img alt="Matplotlib" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+  <img alt="Scikit-learn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img alt="TensorFlow" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img alt="PyTorch" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 </div>
 
 
-**<br clear="all">** 
+### Development Tools
+
+<div>
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
+
+### Scientific & High-Performance Computing
+
+- SciPy, Kwant
+- OpenMP, MPI, CUDA
+- Numerical Methods & Mathematical Modeling
 
 ---
 
+## Application Domains
 
-## Education
-- **PhD Candidate in Physics** – Federal University of Paraíba (UFPB)  
-- **Research/Exchange Program in Computer Science** – TU Dresden, Germany
-- **M.Sc. in Physics** – Federal University of Paraíba (UFPB)  
-- **B.Sc. in Physics** – Federal University of Rio Grande do Norte (UFRN)
-- **Technical Course Business Administration** - Federal Institute of Rio Grande do Norte (IFRN)
-
-
----
-
-## 🔬 Research & Interests
-- **Complex Systems**  
-- **Machine Learning for Scientific Research**  
-- **Computational Physics & Data Analysis**
+- Industry 4.0 & Industrial Condition Monitoring
+- Aviation & Fault Detection
+- Healthcare & Biomedical Signal Processing
+- Environmental Data Analysis
+- Computational & Condensed Matter Physics
 
 ---
 
-## 🌐 Connect with Me
-- 📧 [felipemoreira.physics@gmail.com](mailto:felipemoreira.physics@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/felipe-moreira-m-sc-1627a22a7/)  
-- [ResearchGate](https://www.researchgate.net/profile/Felipe-De-Oliveira-10?ev=hdr_xprf)  
+## Education & International Experience
+
+- **PhD Candidate in Physics** — Federal University of Paraíba (UFPB), Brazil
+- **International Research Experience in Computer Science** — TU Dresden, Germany
+- **M.Sc. in Physics** — Federal University of Paraíba (UFPB), Brazil
+- **B.Sc. in Physics** — Federal University of Rio Grande do Norte (UFRN), Brazil
+- **Technical Diploma in Business Administration** — Federal Institute of Rio Grande do Norte (IFRN), Brazil
+
+---
+
+## Professional Interests
+
+Open to professional opportunities, international research
+collaborations, and open-source software development in
+Machine Learning, Artificial Intelligence, Data Science,
+and Scientific Computing.
+
+---
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/felipe-moreira-m-sc-1627a22a7/)
+- [ResearchGate](https://www.researchgate.net/profile/Felipe-De-Oliveira-10?ev=hdr_xprf)
 - [Google Scholar](https://scholar.google.com/citations?user=lptEi0wAAAAJ&hl=pt-BR)
